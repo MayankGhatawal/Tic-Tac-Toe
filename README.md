@@ -16,7 +16,7 @@ Play against a friend or test your skills against the computer (AI). The game is
 ---
 
 ## 🖼️ Demo
-👉 [Live Demo](https://your-deployed-link.com)  
+👉 [Live Demo](tic-tac-toe-amber-pi.vercel.app)  
 
 ---
 
